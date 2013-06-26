@@ -7,6 +7,7 @@ public class Triangle {
 //		   * *
 //		 * * * *
 //	   * * * * * *
+//Ôö¼Ó
 		Triangle.test(9);
 		Triangle.test1(9);
 	}
